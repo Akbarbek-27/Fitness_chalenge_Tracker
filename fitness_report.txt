@@ -1,0 +1,10 @@
+ACTIVITY TYPE TOTALS (Minutes)
+------------------------------
+Yoga: 120
+Crossfit: 195
+Running: 130
+IRON ATHLETES (> 90 mins)
+-------------------------
+Mike (95 mins)
+Emily (100 mins)
+Chris (100 mins)
